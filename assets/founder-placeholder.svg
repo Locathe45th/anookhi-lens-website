@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#000000"/>
+  <circle cx="150" cy="115" r="55" fill="#EECA53" opacity="0.9"/>
+  <path d="M60 280 Q150 180 240 280 Z" fill="#EECA53" opacity="0.9"/>
+  <text x="150" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#FFFFFF" opacity="0.7">FOUNDER PHOTO</text>
+</svg>
