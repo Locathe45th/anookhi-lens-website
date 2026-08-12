@@ -141,7 +141,7 @@ ul{ list-style:none; }
   transition:opacity .5s var(--ease);
 }
 .site-header.is-scrolled .header-bg{
-  opacity:.25;
+  opacity:.75;
 }
 .site-header:hover .header-bg{
   opacity:1;
